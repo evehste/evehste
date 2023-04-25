@@ -1,16 +1,26 @@
-<h1 align="left">Olá, Dev! 👋<br>Seja muito bem-vindo!</h1>
+<h2 align="left">Olá, Dev! 👋 Seja muito bem-vindo!</h2>
 
 ###
 
-<p align="left">Me chamo Evelin Stefani e sou analista front-end.  💻😎 Atualmente moro em Jundiaí  no estado de São Paulo.</p>
+<h6 align="center">Me chamo Evelin Stefani e sou analista front-end.  💻😎</h6>
 
 ###
 
-<p align="left">✨ Dev front-end desde 2019.<br>📚 Atualmente estou focando em aprender mais sobre back-end.<br>🔥 Tenho muita experiência em desenvolvimento mobile.<br>🎓 Ensino superior completo<br>🎵  Mega fã do Metallica<br>❤️ Amo ler nas horas vagas</p>
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBlYjNlNWYzMmFjZWFiZjg4NjI2NmRiM2Q4NmU1OGFkZWIzZDU0OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13GIgrGdslD9oQ/giphy.gif"  />
+</div>
 
 ###
 
-<h2 align="left">Tecnologias e ferramentas</h2>
+<h2 align="left">👩‍💻  Sobre mim</h2>
+
+###
+
+<p align="left">✨ Dev front-end desde 2019.<br>🏡 Moro em Jundiaí  no estado de São Paulo.<br>📚 Atualmente estou focando em aprender mais sobre back-end.<br>🔥 Tenho muita experiência em desenvolvimento mobile.<br>🎓 Ensino superior completo<br>🎵  Mega fã da banda Metallica<br>❤️ Amo ler nas horas vagas</p>
+
+###
+
+<h2 align="left">🛠 Tecnologias e ferramentas</h2>
 
 ###
 
@@ -37,7 +47,7 @@
 
 ###
 
-<h2 align="left">Contatos</h2>
+<h2 align="left">💌 Contatos</h2>
 
 ###
 
@@ -52,7 +62,7 @@
 
 ###
 
-<h4 align="left">GitHub</h4>
+<h4 align="left">🔥 GitHub</h4>
 
 ###
 
